@@ -1,3 +1,5 @@
+#Just the main code for data to chart converter - will be the crux for the main code (first being the algo)
+
 import yfinance as yf
 import matplotlib.pyplot as plt
 
